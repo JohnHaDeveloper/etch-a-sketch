@@ -1,1 +1,2 @@
 # etch-a-sketch
+Welcome to the Etch-A-Sketch project! This fun and interactive sketch pad allows you to express your creativity and imagination by drawing anything you like. With the ability to choose from a range of colors and re-size the grid up to a maximum of 64x64, there's no limit to what you can create. If you make a mistake, simply erase it with the eraser tool or clear the entire sketch pad with the reset button to start again. So what are you waiting for? Grab your mouse and start sketching today!
