@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Etch-A-Sketch</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Etch-A-Sketch</h1>
+    <p>Click reset or erase button to start drawing</p>
+    <div class="container">
+        <div class="grid"></div>
+    </div>
+      
+    <div class="controls">
+        <button id="reset-btn">Reset</button>
+        <button id="erase-btn">Erase</button>        
+        <label for="size-input">Size:</label>
+        <input type="number" id="size-input" min="1" max="64" value="16">
+        <label for="color-input">Color:</label>
+        <input type="color" id="color-input" value="#000000">
+    </div>
+      
+    <script src="script.js"></script>
+</body>
+
+<footer class="footer">
+    <p>&copy; John Ha 2023. All rights reserved.</p>
+  </footer>
+</html>
